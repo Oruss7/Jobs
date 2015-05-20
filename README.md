@@ -13,6 +13,7 @@ Features
 - Full permissions support for BukkitPerms compatible plugins.
 - Admin commands work with online players.
 - Foreign language translations 
+- Citizen compatibility
 
 ## Dependencies
 
